@@ -12,6 +12,8 @@ public class App2 {
         double[] a = {18.0, 15.0, 23.0, 12.0}; //available weight
         double[] c = {10.0, 16.0, 8.0}; //capacity of compartment
         double[] V = {6800.0, 8700.0, 5300.0}; //volume capacity of
+
+
         
         try {
         	// define new model
